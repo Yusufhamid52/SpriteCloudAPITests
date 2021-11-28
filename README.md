@@ -36,7 +36,7 @@ This is a maven project created using **TestNG Framework with Java**.
       These reports are generated as part of maven test run and provides good details of each test execution. 
       
 ## Calliope
-Please find this link for my test results uploaded to calliope https://app.calliope.pro/reports/108712
+Please find this link for my test results uploaded to calliope https://app.calliope.pro/reports/108712/public/6e8923a5-856d-45be-a1a7-e38a520f08b1
 
 ## How to run tests locally
 ### Pre-requisite :
