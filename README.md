@@ -8,7 +8,7 @@ This is a maven project created using **TestNG Framework with Java**.
 
 **Extent Report** is used for creating reports with logs and screenshot (only in case of failure). **TestNG framework** is used for executing the tests.
 
-**TestCases** folder contains Pet Swagger API Tests.docx which has 2 API test cases with description, steps and expected result.
+**TestCases** are present in Pet Swagger API Tests.docx which is uploaded to *main* branch of this git hub project. It has 2 API test cases with description, steps and expected result.
 
 ## Project hierarchy
 
